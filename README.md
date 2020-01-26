@@ -20,6 +20,7 @@ A Perceptron works by assigning weights to incoming connections. With the McCull
 #### Learning
 A perceptron is a supervised classifier. It learn by first making a prediction: Is the dotproduct over or below the threshold? If it over the threshold it predicts a “1”, if it is below threshold it predicts a “0”.
 Then the perceptron looks at the label of the sample. If the prediction was correct, then the error is “0”, and it leaves the weights alone. If the prediction was wrong, the error is either “-1” or “1” and the perceptron will update the weights like:
+
 weights[feature_index] += learning_rate * error * feature_value
 
 #### Example
