@@ -11,6 +11,7 @@ Pitts saw and understood the potential to capture propositional logic using such
 
 ## Perceptron
 Invented in 1957 by cognitive psychologist Frank Rosenblatt, the perceptron algorithm was the first artificial neural net implemented in hardware. Visit Wikipedia for more information: https://en.wikipedia.org/wiki/Perceptron.
+
 In 1960 researchers at Cornell Aeronautical Laboratory, with funding from the US Office of Naval Research, randomly hooked 400 photocells to a perceptron and the “Mark 1 perceptron” was born. It was capable of basic image recognition.
 
 #### Weights
